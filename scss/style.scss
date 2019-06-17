@@ -1,14 +1,17 @@
-// Bourbon Neat base
+// Bourbon Neat Sass base
 @import '../bower_components/neat/core/_neat.scss';
 
-// Custom Variables
+// Custom variables
 @import '_var.scss';
 
-// #1 Typography
+// Bourbon Neat CSS classes
+@import "components/neat/_neat.scss";
+
+// Typography
 @import 'components/_typography.scss';
 
-// #2 Components
+// Utilities
 @import 'components/_utilities.scss';
 
-// #3 Page styles
+// Page styles
 @import 'pages/index/_index.scss';
