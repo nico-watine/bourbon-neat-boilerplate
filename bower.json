@@ -10,5 +10,8 @@
     "**/.*",
     "node_modules",
     "bower_components"
-  ]
+  ],
+  "dependencies": {
+    "neat": "^3.0.1"
+  }
 }
