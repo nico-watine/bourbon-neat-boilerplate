@@ -1,0 +1,14 @@
+{
+  "name": "bourbon-neat-boilerplate",
+  "homepage": "https://github.com/nico-watine/bourbon-neat-boilerplate",
+  "authors": [
+    "Nico Watine <nico@studioncreations.com> (https://nicowatine.me/)"
+  ],
+  "description": "Boilerplate built on bourbon-neat",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components"
+  ]
+}
