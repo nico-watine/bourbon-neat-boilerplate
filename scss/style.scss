@@ -1,3 +1,6 @@
+// Normalize
+@import '../bower_components/normalize-css/normalize';
+
 // Bourbon Neat Sass base
 @import '../bower_components/neat/core/_neat.scss';
 
@@ -5,7 +8,7 @@
 @import '_var.scss';
 
 // Bourbon Neat CSS classes
-@import "components/neat/_neat.scss";
+@import 'components/neat/_neat.scss';
 
 // Typography
 @import 'components/_typography.scss';

@@ -12,6 +12,7 @@
     "bower_components"
   ],
   "dependencies": {
-    "neat": "^3.0.1"
+    "neat": "^3.0.1",
+    "normalize-css": "^8.0.1"
   }
 }
